@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/TwitterSearchAndroidAuth2.iml" filepath="$PROJECT_DIR$/TwitterSearchAndroidAuth2.iml" />
+      <module fileurl="file://E:/Installation/android-sdk-windows/extras/android/support/v7/appcompat/android-support-v7-appcompat.iml" filepath="E:/Installation/android-sdk-windows/extras/android/support/v7/appcompat/android-support-v7-appcompat.iml" />
+      <module fileurl="file://E:/Installation/android-sdk-windows/extras/android/support/v7/gridlayout/android-support-v7-gridlayout.iml" filepath="E:/Installation/android-sdk-windows/extras/android/support/v7/gridlayout/android-support-v7-gridlayout.iml" />
+    </modules>
+  </component>
+</project>
+

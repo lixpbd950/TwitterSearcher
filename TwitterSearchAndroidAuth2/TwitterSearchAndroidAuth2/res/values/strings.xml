@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Twitter Search</string>
+    <string name="action_settings">Settings</string>
+    <string name="search_message">Search Tweets</string>
+    <string name="search_btn_msg">Search</string>
+    <string name="back_msg">Back</string>
+    <string name="img_desc">Image</string>
+    <string name="title_activity_tweet_list">Twitter Search</string>
+    <string name="title_activity_tweet">Tweet Search</string>
+    <string name="hello_world">Hello world!</string>
+
+</resources>
